@@ -1,3 +1,7 @@
+This is a personal website repository used for sharing professional information about myself to give to potential employers
+
+The design and format of this website is from https://html5up.net/
+
 Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
